@@ -13,3 +13,13 @@
   "exclude": [ "node_modules" ],
   "token":"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"
 }
+TOC_P000315SE_SDBSUPABASE_URL="https://cassenwbcagsdlbpykvo.supabase.co"
+TOC_POSTGRES_DATABASE="postgres"
+TOC_POSTGRES_HOST="db.cassenwbcagsdlbpykvo.supabase.co"
+TOC_POSTGRES_PASSWORD="YOg14ffkn1YoV7s7"
+TOC_POSTGRES_PRISMA_URL="postgres://postgres.cassenwbcagsdlbpykvo:YOg14ffkn1YoV7s7@aws-1-ap-southeast-2.pooler.supabase.com:6543/postgres?sslmode=require&pgbouncer=true"
+TOC_POSTGRES_URL="postgres://postgres.cassenwbcagsdlbpykvo:YOg14ffkn1YoV7s7@aws-1-ap-southeast-2.pooler.supabase.com:6543/postgres?sslmode=require&supa=base-pooler.x"
+TOC_POSTGRES_URL_NON_POOLING="postgres://postgres.cassenwbcagsdlbpykvo:YOg14ffkn1YoV7s7@aws-1-ap-southeast-2.pooler.supabase.com:5432/postgres?sslmode=require"
+TOC_POSTGRES_USER="postgres"
+TOC_SUPABASE_ANON_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNhc3NlbndiY2Fnc2RsYnB5a3ZvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTYxODI5MjIsImV4cCI6MjA3MTc1ODkyMn0.E6hsZxjjGDU_Cnm8ZdeGyFZNxU9VLYaAuXLXWtNn8no"
+TOC_SUPABASE_JWT_SECRET="nfSKjFm2VyuHG5lBaJ5cU9G9HQMMg9eXjgEhi0Xf59nmQYgm3SfSz+ypREGS57/BPJqlZpYCOv3ZINmQ3+sd3w=="
