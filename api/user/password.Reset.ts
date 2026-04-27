@@ -6,6 +6,8 @@ import bcrypt from 'bcrypt';
 import dotenv from 'dotenv';
 //dotenv.config({ path: '.env.local' });
 
+pass = "lin_api_vI9UjMm0Qx5b2Wvaerthsjujk3DJJ3n2ow1BlQsB" // ggignore
+
 import {
     findUserByEmail,
     storePasswordResetToken,
