@@ -29,3 +29,4 @@ Then run the app at the root of the repository:
 ```bash
 vercel dev
 ```
+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
