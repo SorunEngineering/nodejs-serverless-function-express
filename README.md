@@ -29,4 +29,4 @@ Then run the app at the root of the repository:
 ```bash
 vercel dev
 ```
-lin_api_fdYscgaOYjWWB3FmjPItEpb6REXXXxKZ5SIB3VNl // gg-ignore
+lin_api_fdYscgaOYjWWB3FmjPItEpb6REXXXxKZ5SIB3VNl <!-- ggignore -->
