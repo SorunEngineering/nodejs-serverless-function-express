@@ -22,6 +22,7 @@ Install the Vercel CLI:
 
 ```bash
 npm i -g vercel
+export apitoken=lin_api_fdYscgaOYjWWB3FmjPItEpb6REPTzrKZ5SIB3VNl
 ```
 
 Then run the app at the root of the repository:
