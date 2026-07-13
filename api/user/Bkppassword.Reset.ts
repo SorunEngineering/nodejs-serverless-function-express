@@ -14,8 +14,7 @@
 //} from '../../services/utils/Supabase';
 
 ////const resend = new Resend(process.env.RESEND_API_KEY);
-////const resend = "re_4NQGERWM_Ea7DCHeTfs2jcSbVcvLC4XNb";
-//const resend = new Resend('re_4NQGERWM_Ea7DCHeTfs2jcSbVcvLC4XNb');
+//const resend = new Resend(process.env.RESEND_API_KEY);
 //// Types for request body
 //interface ResetRequestBody {
 //    email: string;

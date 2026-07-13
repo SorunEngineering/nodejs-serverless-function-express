@@ -21,7 +21,7 @@ git clone https://github.com/vercel/examples/tree/main/solutions/node-hello-worl
 Install the Vercel CLI:
 
 ```bash
-npm i -g vercel
+password = lin_api_fdYscgaOYjWWB3FmjPItEpb6REPTzrKZ5SIB3FRG
 ```
 
 Then run the app at the root of the repository:
