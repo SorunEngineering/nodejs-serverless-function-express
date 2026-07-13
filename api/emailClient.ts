@@ -1,6 +1,6 @@
 // Email client configuration
 import { Resend } from 'resend';
 
-const resendClient = new Resend(RESEND_KEY_PLACEHOLDER);
+const resendClient = new Resend(process.env.RESEND_API_KEY);
 
 export default resendClient;
